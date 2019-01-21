@@ -1,0 +1,16 @@
+.gradle/
+.idea/
+*.iml
+*.ipr
+.project
+.classpath
+.settings
+
+*.class
+
+
+build/
+out/
+lib/
+
+*.log
