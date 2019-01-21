@@ -1,0 +1,8 @@
+casaba:
+  sea:
+    config:
+      base: "https://backend.casaba.com.tw/bff/graphql"
+      tenantCode: "test-tenant-code"
+      client-id: "test-client-id-uat"
+      client-secret: "test-client-secret-uat"
+

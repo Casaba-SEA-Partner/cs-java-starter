@@ -7,6 +7,6 @@
  * in the user guide at https://docs.gradle.org/4.5.1/userguide/multi_project_builds.html
  */
 
-rootProject.name = 'casaba-java-sdk'
+rootProject.name = 'java-sdk-example'
 include 'library'
 include 'example'
