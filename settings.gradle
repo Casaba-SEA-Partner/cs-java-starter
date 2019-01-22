@@ -8,5 +8,3 @@
  */
 
 rootProject.name = 'java-sdk-example'
-include 'library'
-include 'example'
