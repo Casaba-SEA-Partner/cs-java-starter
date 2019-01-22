@@ -40,7 +40,7 @@ Query can run with parameters, say if you want check the details for a specific 
 
 ```graphql
 {
-	shop {    
+  shop {    
     productByCode(codes: { codes: ["5601018"] }) {
       id
       code
