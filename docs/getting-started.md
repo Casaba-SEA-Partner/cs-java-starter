@@ -91,7 +91,7 @@ mutation {
     token,
     customer {
       nickName
-    	email
+      email
       orders {
         edges {
           node {
